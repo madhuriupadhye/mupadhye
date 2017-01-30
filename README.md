@@ -1,4 +1,0 @@
-Title
-=====
-
-This is sample
